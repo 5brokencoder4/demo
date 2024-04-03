@@ -1,2 +1,3 @@
-Bu bir deneme dosyasıdır
+#Bu bir deneme dosyasıdır
+
 cout<<"eryt";
